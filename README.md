@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Shivanifilms
+Website Of Shivanifilms
+
+# library Reactjs 
+useEffect , useState , components concepts , Routes , Links to route the page .
+
+# Tailwindcss for Design 
+Shivanifilms.com
+Multipage website gives details about company , this Webiste for the company.
+
+npm run start to start the project localhost:3000
+npm run build to build the website for deployment 
+>>>>>>> 3255274e00fb83fad16995c1aad178401e2f6766
