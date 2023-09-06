@@ -1,0 +1,124 @@
+[
+  {
+    "cours_duration": "3 Months Certification Courses",
+    "key":1,
+    "courses": [
+      {
+        "course_name": "Anchoring & News Reading",
+        "price": 35000
+      },
+      {
+        "course_name": "News Reporting",
+        "price": 25000
+      },
+      {
+        "course_name": "Radio Jockey",
+        "price": 25000
+      },
+      {
+        "course_name": "Voice Over & Dubbing",
+        "price": 25000
+      },
+      {
+        "course_name": "Still Photography",
+        "price": 25000
+      },
+      {
+        "course_name": "Video Editing",
+        "price": 35000
+      },
+      {
+        "course_name": "Sound Recording",
+        "price": 35000
+      },
+      {
+        "course_name": "Camera & Lighting Tech.",
+        "price": 35000
+      },
+      {
+        "course_name": "Digital Marketing",
+        "price": 35000
+      },
+      {
+        "course_name": "Graphic Designing",
+        "price": 35000
+      },
+      {
+        "course_name": "Computer Courses",
+        "price": 40000
+      }
+    ]
+  },
+  {
+    "cours_duration": "6 months certification courses",
+    "key":2,
+    "courses": [
+      {
+        "course_name": "2d-animation ",
+        "price": 75000
+      },
+      {
+        "course_name": "3d-animation",
+        "price": 150000
+      },
+      {
+        "course_name": "Website Design",
+        "price": 50000
+      },
+      {
+        "course_name": "Mobile app Development",
+        "price": 125000
+      },
+      {
+        "course_name": "tv and radio production",
+        "price": 100000
+      },
+      {
+        "course_name": "film making",
+        "price": 150000
+      },
+      {
+        "course_name": "vfx compositing",
+        "price": 125000
+      },
+      {
+        "course_name": "creative writing & script writing",
+        "price": 50000
+      },
+      {
+        "course_name": "make-up and styling",
+        "price": 75000
+      },
+      {
+        "course_name": "acting",
+        "price": 100000
+      }
+    ]
+  },
+  {
+    "cours_duration": "1 year diploma courses",
+    "key":3,
+    "courses": [
+      {
+        "course_name": "diploma in media management ",
+        "price": 150000
+      },
+      {
+        "course_name": "diploma in public-relation & advertising",
+        "price": 150000
+      },
+      {
+        "course_name": "diploma in print & digital media",
+        "price": 150000
+      },
+      {
+        "course_name": "diploma in journalism",
+        "price": 150000
+      },
+      {
+        "course_name": "diploma in mobile journalism",
+        "price": 100000
+      }
+    ]
+  }
+]

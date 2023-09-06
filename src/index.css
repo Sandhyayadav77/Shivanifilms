@@ -1,0 +1,33 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@keyframes translate {
+    0%, 100% {
+        transform: translateX(-15%);
+        animation-timing-function: cubic-bezier(0.8,0,1,1);
+    }
+    50% {
+        transform: none;
+        animation-timing-function: cubic-bezier(0,0,0.2,1);
+    }
+}
+.animate-bounce {
+    animation: translate 2s infinite;
+}
+
+.bg-image{
+    background-image: url('./images/bg.jpg');
+    background-size: cover;
+    height: fit-content;
+}
